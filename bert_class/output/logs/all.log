@@ -1,0 +1,871 @@
+[2019-01-09 10:19:13]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:19:15]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:19:15]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:22:08]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:22:09]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:22:09]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:27:27]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:27:29]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:27:30]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:38:20]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:41:31]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:41:33]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:41:33]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:45:29]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:45:31]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:45:31]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:47:04]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:47:05]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:47:06]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:51:51]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:51:53]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:51:53]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:54:42]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:54:43]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:54:44]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:55:13]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:55:15]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:55:15]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:243] INFO  guid: train-1
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 报 警 人 ( 余 德 朝 ， 电 话 : 1 3 6 7 6 6 3 5 6 6 6 ) 称 投 诉 白 鹤 派 出 所 民 警 庞 友 华 在 2 0 1 7 年 正 月 1 6 日 发 生 白 鹤 镇 下 俞 洋 村 集 体 房 打 架 的 事 情 ， 对 其 兄 弟 余 德 民 处 置 不 满 意 。 报 警 人 的 电 话 : 1 3 6 7 6 6 3 5 6 6 6 。 1 8 : 2 0 时 用 电 话 联 系 督 查 大 队 王 小 杰 。 [SEP]
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 2845 6356 782 113 865 2548 3308 8024 4510 6413 131 122 124 127 128 127 127 124 126 127 127 127 114 4917 2832 6401 4635 7911 3836 1139 2792 3696 6356 2425 1351 1290 1762 123 121 122 128 2399 3633 3299 122 127 3189 1355 4495 4635 7911 7252 678 925 3817 3333 7415 860 2791 2802 3373 4638 752 2658 8024 2190 1071 1040 2475 865 2548 3696 1905 5390 679 4007 2692 511 2845 6356 782 4638 4510 6413 131 122 124 127 128 127 127 124 126 127 127 127 511 122 129 131 123 121 3198 4500 4510 6413 5468 5143 4719 3389 1920 7339 4374 2207 3345 511 102 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:248] INFO  label: 8 (id = 8)
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:243] INFO  guid: train-2
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 轿 车 与 三 轮 车 相 撞 ， 人 无 伤 。 [SEP]
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6771 6756 680 676 6762 6756 4685 3058 8024 782 3187 839 511 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:243] INFO  guid: train-3
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 两 辆 电 瓶 车 相 撞 ， 人 员 受 伤 [SEP]
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 697 6775 4510 4486 6756 4685 3058 8024 782 1447 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:243] INFO  guid: train-4
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 别 克 和 奥 迪 相 擦 ， 无 人 员 受 伤 [SEP]
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 1166 1046 1469 1952 6832 4685 3092 8024 3187 782 1447 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:16]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 10:55:43]: bert_class data_loader.py[line:45] INFO    Num examples = 166583
+[2019-01-09 10:55:43]: bert_class data_loader.py[line:46] INFO    Batch size = 32
+[2019-01-09 10:55:43]: bert_class data_loader.py[line:47] INFO    Num steps = 20822
+[2019-01-09 10:55:45]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:243] INFO  guid: dev-1
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 1 号 防 区 警 报 器 响 起 [SEP]
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:246] INFO  input_ids: 101 122 1384 7344 1277 6356 2845 1690 1510 6629 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:248] INFO  label: 6 (id = 6)
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:243] INFO  guid: dev-2
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] ( 火 已 灭 ) l 螺 洋 街 道 农 林 局 山 上 着 火 [SEP]
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:246] INFO  input_ids: 101 113 4125 2347 4127 114 154 6090 3817 6125 6887 1093 3360 2229 2255 677 4708 4125 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:248] INFO  label: 7 (id = 7)
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:243] INFO  guid: dev-3
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 有 人 赌 博 。 [SEP]
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:246] INFO  input_ids: 101 3300 782 6603 1300 511 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:243] INFO  guid: dev-4
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 温 岭 市 泽 国 电 力 公 司 旁 边 ， 轿 车 与 五 菱 车 相 撞 。 [SEP]
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:246] INFO  input_ids: 101 3946 2275 2356 3813 1744 4510 1213 1062 1385 3178 6804 8024 6771 6756 680 758 5837 6756 4685 3058 511 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 10:55:47]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 10:55:59]: bert_class data_loader.py[line:45] INFO    Num examples = 71390
+[2019-01-09 10:55:59]: bert_class data_loader.py[line:46] INFO    Batch size = 8
+[2019-01-09 11:00:13]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:00:15]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:00:15]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:00:15]: bert_class data_loader.py[line:34] INFO    Num steps = 20822
+[2019-01-09 11:00:15]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:243] INFO  guid: train-1
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 报 警 人 ( 余 德 朝 ， 电 话 : 1 3 6 7 6 6 3 5 6 6 6 ) 称 投 诉 白 鹤 派 出 所 民 警 庞 友 华 在 2 0 1 7 年 正 月 1 6 日 发 生 白 鹤 镇 下 俞 洋 村 集 体 房 打 架 的 事 情 ， 对 其 兄 弟 余 德 民 处 置 不 满 意 。 报 警 人 的 电 话 : 1 3 6 7 6 6 3 5 6 6 6 。 1 8 : 2 0 时 用 电 话 联 系 督 查 大 队 王 小 杰 。 [SEP]
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 2845 6356 782 113 865 2548 3308 8024 4510 6413 131 122 124 127 128 127 127 124 126 127 127 127 114 4917 2832 6401 4635 7911 3836 1139 2792 3696 6356 2425 1351 1290 1762 123 121 122 128 2399 3633 3299 122 127 3189 1355 4495 4635 7911 7252 678 925 3817 3333 7415 860 2791 2802 3373 4638 752 2658 8024 2190 1071 1040 2475 865 2548 3696 1905 5390 679 4007 2692 511 2845 6356 782 4638 4510 6413 131 122 124 127 128 127 127 124 126 127 127 127 511 122 129 131 123 121 3198 4500 4510 6413 5468 5143 4719 3389 1920 7339 4374 2207 3345 511 102 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:00:16]: bert_class data_processor.py[line:248] INFO  label: 8 (id = 8)
+[2019-01-09 11:00:41]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:00:41]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:00:43]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:00:44]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:243] INFO  guid: dev-1
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 1 号 防 区 警 报 器 响 起 [SEP]
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:246] INFO  input_ids: 101 122 1384 7344 1277 6356 2845 1690 1510 6629 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:00:45]: bert_class data_processor.py[line:248] INFO  label: 6 (id = 6)
+[2019-01-09 11:00:56]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:00:56]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:00:56]: torch train.py[line:36] INFO  device: cuda n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 11:10:59]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:11:00]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:11:01]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:11:01]: bert_class data_loader.py[line:34] INFO    Num steps = 20822
+[2019-01-09 11:11:01]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:11:01]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:11:01]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:11:01]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:11:01]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:11:01]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:11:27]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:11:27]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:11:29]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:11:30]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:11:31]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:11:31]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:11:31]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:11:31]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:11:31]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:11:31]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:11:31]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:11:42]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:11:42]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:23:16]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:23:18]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:23:19]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:23:19]: bert_class data_loader.py[line:34] INFO    Num steps = 20822
+[2019-01-09 11:23:19]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:23:19]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:23:19]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:23:19]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:23:19]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:23:19]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:23:56]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:23:56]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:23:58]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:24:00]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:24:00]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:24:01]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:24:01]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:24:01]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:24:01]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:24:01]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:24:01]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:24:13]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:24:13]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:31:31]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:31:34]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:31:34]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:31:35]: bert_class data_loader.py[line:34] INFO    Num steps = 20822
+[2019-01-09 11:31:35]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:31:35]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:31:35]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:31:35]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:31:35]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:31:35]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:32:10]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:32:10]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:32:12]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:32:14]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:32:14]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:32:15]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:32:15]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:32:15]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:32:15]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:32:15]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:32:15]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:32:28]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:32:28]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:32:33]: torch train.py[line:36] INFO  device: cuda n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 11:33:53]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:33:55]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:33:56]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:33:56]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 11:33:56]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:33:56]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:33:56]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:33:56]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:33:56]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:33:56]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:34:31]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:34:31]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:34:33]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:34:33]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:34:33]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:34:33]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:34:33]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:34:33]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:34:47]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:34:47]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:34:52]: torch train.py[line:36] INFO  device: cuda n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 11:37:07]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:37:09]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:37:09]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:37:10]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 11:37:10]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:37:10]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:37:10]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:37:10]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:37:10]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:37:10]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:37:38]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:37:38]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:37:40]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:37:40]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:37:40]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:37:40]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:37:40]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:37:40]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:37:52]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:37:52]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:37:57]: torch train.py[line:36] INFO  device: cuda n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 11:39:14]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:39:15]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:39:16]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:39:16]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 11:39:16]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:39:16]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:39:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:39:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:39:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:39:16]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:39:47]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:39:47]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:39:49]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:39:49]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:39:49]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:39:49]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:39:49]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:39:49]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:40:02]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:40:02]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:40:06]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 11:44:18]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:44:20]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:44:20]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:44:21]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 11:44:21]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:44:21]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:44:21]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:44:21]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:44:21]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:44:21]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:44:49]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:44:49]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:44:50]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:44:50]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:44:50]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:44:50]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:44:50]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:44:50]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:45:02]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:45:02]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:45:07]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 11:48:06]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 11:48:08]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 11:48:08]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 11:48:09]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 11:48:09]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:48:09]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 11:48:09]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 11:48:09]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:48:09]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:48:09]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 11:48:39]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 11:48:39]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 11:48:41]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 11:48:41]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 11:48:41]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 11:48:41]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:48:41]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 11:48:41]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 11:48:53]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 11:48:53]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 11:48:58]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 12:17:59]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 12:18:00]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 12:18:01]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 12:18:01]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 12:18:01]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 12:18:01]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 12:18:01]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 12:18:01]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:18:01]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:18:01]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 12:18:22]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 12:18:22]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 12:18:24]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 12:18:24]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 12:18:24]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 12:18:24]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:18:24]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:18:24]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 12:18:33]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 12:18:33]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 12:18:36]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 12:22:57]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 12:22:58]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 12:22:59]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 12:22:59]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 12:22:59]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 12:22:59]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 12:22:59]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 12:22:59]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:22:59]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:22:59]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 12:23:20]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 12:23:20]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 12:23:22]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 12:23:22]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 12:23:22]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 12:23:22]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:23:22]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:23:22]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 12:23:31]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 12:23:31]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 12:23:39]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 12:30:05]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 12:30:07]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 12:30:07]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 12:30:08]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 12:30:08]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 12:30:08]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 12:30:08]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 12:30:08]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:30:08]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:30:08]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 12:30:31]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 12:30:31]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 12:30:32]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 12:30:32]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 12:30:32]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 12:30:32]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:30:32]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:30:32]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 12:30:42]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 12:30:42]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 12:30:51]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 12:43:04]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 12:43:05]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 12:43:05]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 12:43:06]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 12:43:06]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 12:43:06]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 12:43:06]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 12:43:06]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:43:06]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:43:06]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 12:43:27]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 12:43:27]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 12:43:28]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 12:43:28]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 12:43:28]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 12:43:28]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:43:28]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 12:43:28]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 12:43:37]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 12:43:37]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 12:43:46]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 13:57:15]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 13:57:17]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 13:57:17]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 13:57:18]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 13:57:18]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 13:57:18]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 13:57:18]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 13:57:18]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 13:57:18]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 13:57:18]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 13:57:39]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 13:57:39]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 13:57:40]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 13:57:40]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 13:57:40]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 13:57:40]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 13:57:40]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 13:57:40]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 13:57:49]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 13:57:49]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 13:57:58]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 14:11:21]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:11:23]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:11:23]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:11:23]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:11:23]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:11:23]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:11:23]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:11:23]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:11:23]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:11:23]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:11:45]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:11:45]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:11:46]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:11:46]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:11:46]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:11:46]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:11:46]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:11:46]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:11:56]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:11:56]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:12:04]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 14:12:52]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:12:54]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:12:54]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:12:54]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:12:54]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:12:54]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:12:54]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:12:54]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:12:54]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:12:54]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:13:15]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:13:15]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:13:17]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:13:17]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:13:17]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:13:17]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:13:17]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:13:17]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:13:26]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:13:26]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:13:30]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 2, distributed training: False, 16-bits training: False
+[2019-01-09 14:25:38]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:25:39]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:25:40]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:25:40]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:25:40]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:25:40]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:25:40]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:25:40]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:25:40]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:25:40]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:26:06]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:26:06]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:26:08]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:26:08]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:26:08]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:26:08]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:26:08]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:26:08]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:26:19]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:26:19]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:26:23]: torch train.py[line:37] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 14:27:51]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:27:52]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:27:52]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:27:53]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:27:53]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:27:53]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:27:53]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:27:53]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:27:53]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:27:53]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:28:19]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:28:19]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:28:21]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:28:21]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:28:21]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:28:21]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:28:21]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:28:21]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:28:33]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:28:33]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:28:37]: torch train.py[line:37] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 14:29:36]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:29:38]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:29:38]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:29:39]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:29:39]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:29:39]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:29:39]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:29:39]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:29:39]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:29:39]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:30:04]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:30:04]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:30:05]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:30:05]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:30:05]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:30:05]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:30:05]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:30:05]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:30:16]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:30:16]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:30:21]: torch train.py[line:37] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 14:31:26]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:31:28]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:31:29]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:31:29]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:31:29]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:31:29]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:31:29]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:31:29]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:31:29]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:31:29]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:31:56]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:31:56]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:31:58]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:31:58]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:31:58]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:31:58]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:31:58]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:31:58]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:32:09]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:32:09]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:32:13]: torch train.py[line:37] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 14:35:53]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:35:55]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:35:55]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:35:56]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:35:56]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:35:56]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:35:56]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:35:56]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:35:56]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:35:56]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:36:23]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:36:23]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:36:24]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:36:24]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:36:24]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:36:24]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:36:24]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:36:24]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:36:36]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:36:36]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:36:40]: torch train.py[line:37] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 14:38:56]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:38:57]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:38:58]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:38:58]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:38:58]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:38:58]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:38:58]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:38:58]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:38:58]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:38:58]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:39:25]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:39:25]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:39:27]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:39:27]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:39:27]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:39:27]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:39:27]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:39:27]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:39:38]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:39:38]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:39:42]: torch train.py[line:37] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 14:41:48]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:41:50]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:41:50]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:41:51]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:41:51]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:41:51]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:41:51]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:41:51]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:41:51]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:41:51]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:42:17]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:42:17]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:42:19]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:42:19]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:42:19]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:42:19]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:42:19]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:42:19]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:42:30]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:42:30]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:42:34]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 14:49:35]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:49:36]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:49:37]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:49:37]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:49:37]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:49:37]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:49:37]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:49:37]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:49:37]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:49:37]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:50:03]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:50:03]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:50:05]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:50:05]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:50:05]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:50:05]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:50:05]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:50:05]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:50:16]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:50:16]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:50:20]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 14:54:03]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 14:54:04]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 14:54:05]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 14:54:06]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 14:54:06]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:54:06]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 14:54:06]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 14:54:06]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:54:06]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:54:06]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 14:54:30]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 14:54:30]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 14:54:32]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 14:54:32]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 14:54:32]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 14:54:32]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:54:32]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 14:54:32]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 14:54:43]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 14:54:43]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 14:54:47]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 16:42:50]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 16:42:52]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 16:42:52]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 16:42:53]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 16:42:53]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:42:53]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 16:42:53]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 16:42:53]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:42:53]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:42:53]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 16:43:14]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 16:43:14]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 16:43:15]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:43:15]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 16:43:15]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 16:43:15]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:43:15]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:43:15]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 16:43:24]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 16:43:24]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 16:43:29]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 16:49:03]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 16:49:05]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 16:49:05]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 16:49:06]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 16:49:06]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:49:06]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 16:49:06]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 16:49:06]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:49:06]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:49:06]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 16:49:27]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 16:49:27]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 16:49:28]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:49:28]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 16:49:28]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 16:49:28]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:49:28]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:49:28]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 16:49:37]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 16:49:37]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 16:50:12]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 16:50:14]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 16:50:14]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 16:50:14]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 16:50:14]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:50:14]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 16:50:14]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 16:50:14]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:50:14]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:50:14]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 16:50:36]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 16:50:36]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 16:50:37]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:50:37]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 16:50:37]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 16:50:37]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:50:37]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:50:37]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 16:50:46]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 16:50:46]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 16:52:03]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 16:52:04]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 16:52:04]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 16:52:05]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 16:52:05]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:52:05]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 16:52:05]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 16:52:05]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:52:05]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:52:05]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 16:52:26]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 16:52:26]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 16:52:27]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:52:27]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 16:52:27]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 16:52:27]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:52:27]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:52:27]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 16:52:37]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 16:52:37]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 16:52:40]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 16:55:14]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 16:55:16]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 16:55:16]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 16:55:16]: bert_class data_loader.py[line:33] INFO    Num steps = 20822
+[2019-01-09 16:55:16]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:55:16]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 16:55:16]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 16:55:16]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:55:16]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:55:16]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 16:55:37]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 16:55:37]: bert_class data_loader.py[line:47] INFO    Batch size = 32
+[2019-01-09 16:55:39]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 16:55:39]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 16:55:39]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 16:55:39]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:55:39]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 16:55:39]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 16:55:48]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 16:55:48]: bert_class data_loader.py[line:47] INFO    Batch size = 8
+[2019-01-09 16:55:51]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 17:00:36]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 17:00:37]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 17:00:37]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 17:00:38]: bert_class data_loader.py[line:33] INFO    Num steps = 5205
+[2019-01-09 17:00:38]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 17:00:38]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 17:00:38]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 17:00:38]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:00:38]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:00:38]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 17:00:59]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 17:00:59]: bert_class data_loader.py[line:47] INFO    Batch size = 128
+[2019-01-09 17:01:00]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 17:01:00]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 17:01:00]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 17:01:00]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:01:00]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:01:00]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 17:01:09]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 17:01:09]: bert_class data_loader.py[line:47] INFO    Batch size = 128
+[2019-01-09 17:01:13]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 17:10:13]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 17:10:14]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 17:10:14]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 17:10:15]: bert_class data_loader.py[line:33] INFO    Num steps = 5205
+[2019-01-09 17:10:15]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 17:10:15]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 17:10:15]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 17:10:15]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:10:15]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:10:15]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 17:10:36]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 17:10:36]: bert_class data_loader.py[line:47] INFO    Batch size = 128
+[2019-01-09 17:10:37]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 17:10:37]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 17:10:37]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 17:10:37]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:10:37]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:10:37]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 17:10:47]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 17:10:47]: bert_class data_loader.py[line:47] INFO    Batch size = 128
+[2019-01-09 17:10:50]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 17:14:00]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 17:14:01]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 17:14:01]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 17:14:02]: bert_class data_loader.py[line:33] INFO    Num steps = 5205
+[2019-01-09 17:14:02]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 17:14:02]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 17:14:02]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 17:14:02]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:14:02]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:14:02]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 17:14:23]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 17:14:23]: bert_class data_loader.py[line:47] INFO    Batch size = 128
+[2019-01-09 17:14:24]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 17:14:24]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 17:14:24]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 17:14:24]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:14:24]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:14:24]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 17:14:33]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 17:14:33]: bert_class data_loader.py[line:47] INFO    Batch size = 128
+[2019-01-09 17:14:38]: torch train.py[line:36] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 17:21:45]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 17:21:46]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 17:21:46]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 17:21:47]: bert_class data_loader.py[line:33] INFO    Num steps = 13014
+[2019-01-09 17:21:47]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 17:21:47]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 17:21:47]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 17:21:47]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:21:47]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:21:47]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 17:22:09]: bert_class data_loader.py[line:46] INFO    Num examples = 166583
+[2019-01-09 17:22:09]: bert_class data_loader.py[line:47] INFO    Batch size = 128
+[2019-01-09 17:22:10]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 17:22:10]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 17:22:10]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 17:22:10]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:22:10]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 17:22:10]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 17:22:19]: bert_class data_loader.py[line:46] INFO    Num examples = 71390
+[2019-01-09 17:22:19]: bert_class data_loader.py[line:47] INFO    Batch size = 128
+[2019-01-09 17:22:23]: torch train.py[line:36] INFO  device: cuda:0 n_gpu: 1, distributed training: False, 16-bits training: False
+[2019-01-09 19:35:13]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 19:35:14]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 19:35:14]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 19:35:15]: bert_class data_loader.py[line:34] INFO    Num steps = 20822
+[2019-01-09 19:35:15]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 19:35:15]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 19:35:15]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 19:35:15]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 19:35:15]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 19:35:15]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 19:35:36]: bert_class data_loader.py[line:47] INFO    Num examples = 166583
+[2019-01-09 19:35:36]: bert_class data_loader.py[line:48] INFO    Batch size = 32
+[2019-01-09 19:35:38]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 19:35:38]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 19:35:38]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 19:35:38]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 19:35:38]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 19:35:38]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 19:35:47]: bert_class data_loader.py[line:47] INFO    Num examples = 71390
+[2019-01-09 19:35:47]: bert_class data_loader.py[line:48] INFO    Batch size = 32
+[2019-01-09 19:36:55]: bert_class data_processor.py[line:26] INFO  train val split
+[2019-01-09 19:36:56]: bert_class data_processor.py[line:128] INFO  Train set write down
+[2019-01-09 19:36:57]: bert_class data_processor.py[line:135] INFO  Dev set write down
+[2019-01-09 19:36:57]: bert_class data_loader.py[line:34] INFO    Num steps = 20822
+[2019-01-09 19:36:57]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 19:36:57]: bert_class data_processor.py[line:243] INFO  guid: train-0
+[2019-01-09 19:36:57]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 起 亚 和 迷 你 相 撞 ， 无 人 受 伤 [SEP]
+[2019-01-09 19:36:57]: bert_class data_processor.py[line:246] INFO  input_ids: 101 6629 762 1469 6837 872 4685 3058 8024 3187 782 1358 839 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 19:36:57]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 19:36:57]: bert_class data_processor.py[line:248] INFO  label: 2 (id = 2)
+[2019-01-09 19:37:18]: bert_class data_loader.py[line:47] INFO    Num examples = 166583
+[2019-01-09 19:37:18]: bert_class data_loader.py[line:48] INFO    Batch size = 32
+[2019-01-09 19:37:19]: bert_class data_processor.py[line:242] INFO  *** Example ***
+[2019-01-09 19:37:19]: bert_class data_processor.py[line:243] INFO  guid: dev-0
+[2019-01-09 19:37:19]: bert_class data_processor.py[line:245] INFO  tokens: [CLS] 举 报 赌 博 [SEP]
+[2019-01-09 19:37:19]: bert_class data_processor.py[line:246] INFO  input_ids: 101 715 2845 6603 1300 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 19:37:19]: bert_class data_processor.py[line:247] INFO  input_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2019-01-09 19:37:19]: bert_class data_processor.py[line:248] INFO  label: 3 (id = 3)
+[2019-01-09 19:37:28]: bert_class data_loader.py[line:47] INFO    Num examples = 71390
+[2019-01-09 19:37:28]: bert_class data_loader.py[line:48] INFO    Batch size = 32
+[2019-01-09 19:37:32]: torch train.py[line:39] INFO  device: cuda:1 n_gpu: 1, distributed training: False, 16-bits training: False
