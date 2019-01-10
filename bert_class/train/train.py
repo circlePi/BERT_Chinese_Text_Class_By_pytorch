@@ -27,12 +27,12 @@ def warmup_linear(x, warmup=0.002):
 def fit(model, training_iter, eval_iter, num_epoch, pbar, num_train_steps, verbose=1):
     # ------------------判断CUDA模式----------------------
     if args.local_rank == -1 or args.no_cuda:
-        device = torch.device("cuda:1" if torch.cuda.is_available() and not args.no_cuda else "cpu")
-        # n_gpu = torch.cuda.device_count()   # 多GPU
-        n_gpu = 1
+        device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
+        n_gpu = torch.cuda.device_count()   # 多GPU
+        # n_gpu = 1
     else:
         torch.cuda.set_device(args.local_rank)
-        device = torch.device("cuda:1", args.local_rank)
+        device = torch.device("cuda", args.local_rank)
         n_gpu = 1
 
     logger.info("device: {} n_gpu: {}, distributed training: {}, 16-bits training: {}".format(
@@ -146,8 +146,6 @@ def fit(model, training_iter, eval_iter, num_epoch, pbar, num_train_steps, verbo
                 input_ids, input_mask, segment_ids, label_ids = batch
                 logits = model(input_ids, segment_ids, input_mask, label_ids)
                 eval_los = loss_fn(logits, label_ids)
-                if n_gpu > 1:
-                    eval_los = eval_loss.mean()  # mean() to average on multi-gpu.
                 eval_loss = eval_los + eval_loss
                 count += 1
                 y_predicts.append(logits)
